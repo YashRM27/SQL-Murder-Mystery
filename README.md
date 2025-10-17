@@ -2,7 +2,7 @@
 
 The SQL Murder Mystery is an interactive problem designed to test and improve your SQL querying skills. In this project, you play the role of a detective solving a murder by exploring a database filled with information about the crime, suspects, and evidence. The objective is to use SQL queries to find the murderer and the mastermind behind the crime.
 
-Note: This project is based on the SQL Murder Mystery available on [SQL Murder Mystery]https://mystery.knightlab.com/
+Note: This project is based on the SQL Murder Mystery available on [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 Disclaimer: This project was completed using the SQL Murder Mystery website and does not include a local database copy.
 
